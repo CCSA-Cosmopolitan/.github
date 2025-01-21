@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <img src="../img/cosmopolitan-logo.png" alt="CCSA Logo" height='200px' width='200px' style="max-width:200px; width:100px; height: auto;">
+  <img src="../img/cosmopolitan-logo.png" alt="CCSA Logo" height='200px' width='200px' style="max-width:200px; width:200px; height: auto;">
 </p>
 
 
