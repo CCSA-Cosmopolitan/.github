@@ -1,7 +1,7 @@
 # Centre for Climate-Smart Agriculture (CCSA)
 ## Cosmopolitan University Abuja
 
-![CCSA Logo](../img/ccsa-logo.png?height=200&width=200)
+![CCSA Logo](../img/cosmopolitan-logo.png?height=200&width=200)
 
 ## About Us
 
