@@ -40,18 +40,7 @@ To drive the transformation of agriculture in Sub-Saharan Africa by advancing cl
 - **Knowledge Dissemination**: Establish open-access repositories of climate-smart best practices.
 - **Partnership & Collaboration Unit**: Facilitate engagement with global entities and implement joint projects.
 
-## Strategic Partnerships
 
-We collaborate with a wide range of global and local partners, including:
-
-- International Fund for Agricultural Development (IFAD)
-- Alliance for a Green Revolution in Africa (AGRA)
-- African Development Bank (AfDB)
-- Food and Agriculture Organization (FAO)
-- United States Department of Agriculture (USDA)
-- NASA Africa Harvest Program at Maryland University
-- Federal and State Ministries of Agriculture across Sub-Saharan Africa
-- Various NGOs, CSOs, and private sector entities
 
 ## Get Involved
 
