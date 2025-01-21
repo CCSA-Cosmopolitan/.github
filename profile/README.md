@@ -57,14 +57,13 @@ We welcome collaboration from researchers, practitioners, policymakers, and inno
 
 Centre for Climate-Smart Agriculture (CCSA)  
 Cosmopolitan University Abuja  
-[Address Line 1]  
-[Address Line 2]  
+Plot 432, Yakubu J. Pam Street, Opposite National Hospital, Central Business District, Abuja
 Abuja, Nigeria
 
-Email: info@ccsa.cosmopolitanuniversity.edu.ng  
+Email:  ccsa@cosmopolitan.edu.ng
 Phone: +234 XXX XXX XXXX
 
-[Website](https://ccsa.cosmopolitanuniversity.edu.ng) | [Twitter](https://twitter.com/CCSA_CUA) | [LinkedIn](https://www.linkedin.com/company/ccsa-cua)
+[Website](http://ccsa.cosmopolitan.edu.ng) | [Twitter](https://twitter.com/CCSA_CUA) | [LinkedIn](https://www.linkedin.com/company/ccsa-cua)
 
 ## Contributing
 
